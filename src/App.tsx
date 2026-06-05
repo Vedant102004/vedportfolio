@@ -118,7 +118,7 @@ function App() {
 
             {/* Right */}
             <div className="flex items-center gap-4">
-              <a href="#" className="hidden sm:block text-white text-sm font-medium hover:text-white/80 transition-colors">Resume</a>
+              <a href="/Vedant_Resume.pdf" target="_blank" rel="noopener noreferrer" className="hidden sm:block text-white text-sm font-medium hover:text-white/80 transition-colors">Resume</a>
               <a href="https://wa.me/919993498363" target="_blank" rel="noopener noreferrer" className="liquid-glass rounded-full px-6 py-2 text-white text-sm font-medium hover:bg-white/10 transition-colors">
                 Let's Talk
               </a>
